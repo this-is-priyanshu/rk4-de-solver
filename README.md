@@ -1,5 +1,5 @@
 # Differential Equation Solver using RK4 method
-This project implements the Runge-Kutta 4th Order (RK4) method for solving 1st order and 2nd order ordinary differential equations.
+This web-based project implements the Runge-Kutta 4th Order (RK4) method for solving 1st order and 2nd order ordinary differential equations.
 ### Features
 - Supports both 1st order and 2nd order differential equations
 - Displays computational values in the form of a table
